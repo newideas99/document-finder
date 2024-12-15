@@ -200,3 +200,4 @@ If you find MCP servers useful, please consider starring the repository and cont
 ---
 
 Managed by Anthropic, but built together with the community. The Model Context Protocol is open source and we encourage everyone to contribute their own servers and improvements!
+- **[Package Documentation](https://github.com/newideas99/document-finder)** - Fetch and format documentation for npm and PyPI packages, providing easy access to installation instructions, API references, and usage examples.
